@@ -8,3 +8,4 @@ gh-user-recon -u <username>
 
 Ideally specify a Github token with `-t` or set `GITHUB_TOKEN` env variable 
 
+![](/screenshot.png?raw=true "Screenshot")
